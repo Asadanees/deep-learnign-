@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 #
 #  mnist_1.py
-# Important note: this code is tested on  Google Colab. Might be you need littel modefication to compplie and run on your loacl machine.
+#Important note: this code is tested on  Google Colab. Might be you need little modification to complicate and run on your local machine.
 #  Copyright 2020 Asad Anees <asad@asad-Latitude-E7440>
 #  
 #  This program is free software; you can redistribute it and/or modify

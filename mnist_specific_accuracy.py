@@ -20,11 +20,9 @@
 #  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 #  MA 02110-1301, USA.
 
-##         PROBLEM STATEMENT
-# Important note: this code is tested on  Google Colab. Might be you need littel modefication to compplie and run on your loacl machine.
+##         PROBLEM STATEMENT.
 #      #  A Computer Vision Project of MNIST dataset and how would we stop the training of neural netwrork when we reach a desired accuracy value?
-# Important note: this code is tested on  Google Colab. Might be you need littel modefication to compplie and run on your loacl machine.
-
+# Important note: this code is tested on  Google Colab. Might be you need little modification to complicate and run on your local machine.
 
 # When we could train our neural netwrok for extra epochs. We had an issue where our loss might change. It might have taken a bit of time
 # for us to wait for the training to do that, and we might have thought, wouldn't it be nice if we could stop the training when we reach a desired value.

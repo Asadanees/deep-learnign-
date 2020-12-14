@@ -4,7 +4,6 @@
 #  minst_impover.py
 #  
 #  Copyright 2020 Asad Anees <asad@asad-Latitude-E7440>
-# Important note: this code is tested on  Google Colab. Might be you need little modefication to compplie and run on your loacl machine. 
 #  This program is free software; you can redistribute it and/or modify
 #  it under the terms of the GNU General Public License as published by
 #  the Free Software Foundation; either version 2 of the License, or
@@ -29,8 +28,7 @@
 # It could happen in less than 20 epochs or more, so it's ok to hard code the number of epochs for training, 
 # but our training must end once it hits the above metric. If it doesn't, then we'll need to redesign our Convolutions layers.
 #Improving Computer Vision Accuracy using Convolutions
-
-# Important note: this code is tested on  Google Colab. Might be you need littel modefication to compplie and run on your loacl machine.
+#Important note: this code is tested on  Google Colab. Might be you need little modification to complicate and run on your local machine.
 #	Import the TensorFlow
 
 import tensorflow as tf
