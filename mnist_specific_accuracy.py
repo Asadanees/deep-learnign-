@@ -58,7 +58,7 @@ print(tf.__version__)
 #Desired_accuracy = input("Enter latest value of Desired accuacy e.g to get more thab 95 % accuracy then put the value =0.95:")
 #Desired_accuracy = int(input())
 
-# Muncally we could also define the accuracy to stop training then uncoment the last line
+# Muncally we could also define the accuracy to stop training 
 
 Desired_accuracy=0.93
 
